@@ -1,4 +1,4 @@
-# Netflix Top 10 Data Analysis
+# Analysis of Friends episode data
 ## Installations:
 1. Numpy
 2. Matplotlib
@@ -20,10 +20,10 @@ the episode wise IMDB rating and US viewership data of the American sitcom TV Sh
 5) Which writer contributed more to fan favourite episodes?
 
 ## File Descriptions:
-This project entails an jupyter notebook which contains the code covering all the work related to the goal of the project.
+This project entails a jupyter notebook which contains the code covering all the work I've done, to achieve the goal of this project.
 
 ## How to interact with my project:
-I have shared my detailed insights I've acquired from my project in this medium post [here]()
+I have shared all of the detailed insights that I've acquired from this project, in this medium post [here](https://medium.com/@Janani2718/data-will-be-there-for-you-like-its-been-there-before-d8cb42c07cf4)
 
 ##  Licensing, Authors, Acknowledgements, etc:
-I hereby acknowledge [kaggle](https://www.kaggle.com/mikitkanakia/netflix-top-10-weekly-dataset) for the dataset I've acquired.
+I hereby acknowledge [kaggle](https://www.kaggle.com/bcruise/friends-episode-data) for providing me with such an amazing dataset.
